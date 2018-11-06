@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Train Gadget">
+    <output-path>C:/Servers/MinecraftServers/Serious stuff/Gadget - Train [1.8.9]/plugins</output-path>
+    <root id="archive" name="Train Gadget.jar">
+      <element id="module-output" name="Minecraft_TrainGadget" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
